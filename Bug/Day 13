@@ -1,3 +1,4 @@
 Slow
 Sepolia to BSC
 Vol: 10000
+Slippage too high. Attempted amount: 500000000, equivalent reward: 500000, equivalent fee: 48301766, but minimum acceptable amount is 497500000. Please adjust your slippage settings and try again.
